@@ -1,0 +1,10 @@
+
+You: fuel
+Bot: It has a fuel tank capacity of 50 litres.
+You: model
+Bot: Models available are 
+	1.Creta E
+	2.Creta EX
+	3.Creta S
+	4.Creta S+
+

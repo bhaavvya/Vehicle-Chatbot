@@ -1,0 +1,30 @@
+You: fuel
+Bot: It has a fuel tank capacity of 35 litres.
+You: petrol
+Bot: Oops, It is only available in diesel
+You: disel
+Bot: Could you please re-phrase that? 
+You: diesel
+Bot: Yes, It is available in diesel.   
+You: color
+Bot: What does that mean?
+You: colour
+Bot: What does that mean?
+You: price
+You: price
+You: price
+You: price
+You: price
+You: price
+You: price
+You: price
+You: how many wheels do it have
+Bot: You will be provided 3 free services from our company. 
+You: which 3 services
+Bot: You will be provided 3 free services from our company. 
+You: 5
+Bot: Could you please re-phrase that? 
+
+You: 5
+Bot: What does that mean?
+

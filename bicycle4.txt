@@ -1,0 +1,31 @@
+You: color
+Bot: Bicycle is available in two colour:
+1.black
+2.white 
+You: price
+Bot: 25000 onwards 
+You: gear
+Bot: What does that mean?
+You: gears
+Bot: What does that mean?
+You: how many gears
+Bot: Bicycle have gears 18 gears 3 in front and 6 in rear when electric motor is not in use
+
+You: battery
+Bot: On Full Charge it can travel around 15KM and battery has warranty on 1Year
+You: range
+Bot: Could you please re-phrase that? 
+You: warranty
+Bot: Bicycle have 2 year of Warranty On body-frame and 1 year warranty on batteries
+You: gear
+Bot: Bicycle have gears 18 gears 3 in front and 6 in rear when electric motor is not in use and when electric motor is in use it opertaes in single gear
+You: model
+Bot: The Bicycle is available in 3 models
+	model 1:E-cycle1:25000
+	model 2:E-cycle2:27200
+	model 3:E-cycle:28000
+You: color
+Bot: Bicycle is available in two colour:
+1.black
+2.white 
+

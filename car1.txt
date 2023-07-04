@@ -1,0 +1,26 @@
+You: sunroof
+Bot: It does not have a sun roof. 
+
+You: petrol engine
+Bot: It Has 400 Horsepower(HP) engine
+You: fuel
+Bot: It has a fuel tank capacity of 35 litres.
+You: model
+Bot: Models available are 
+	1.i20 lite
+	2.i20 magna
+	3.i20 sports
+	4.i20 Asta
+
+
+You: model
+Bot: Models available are 
+	1.i20 lite
+	2.i20 magna
+	3.i20 sports
+	4.i20 Asta
+You: fuel
+Bot: It has a fuel tank capacity of 35 litres.
+You: petrol
+Bot: It is available in both petrol and deisel. 
+

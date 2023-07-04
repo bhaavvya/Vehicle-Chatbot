@@ -1,0 +1,16 @@
+You: tell me about yourself
+Bot: Did you mean something else? 
+You: tell me about bajaj pulsar
+Bot: Did you mean something else? 
+You: milage kya hai iska
+Bot: What does that mean?
+You: fuel capacity
+Bot: It has a fuel tank capacity of 11.5 to 15 litres.
+You: wheels
+Bot: What does that mean?
+You: weight capacity
+Bot: The average weight is 140kg to 166kg.
+You: speed
+Bot: It Has Maximum speed of 90kmph
+You: great
+Bot: Did you mean something else? 

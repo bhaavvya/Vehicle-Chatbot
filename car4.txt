@@ -1,0 +1,22 @@
+You: available in petrol
+Bot: The available colours are : 
+1.White
+2.Black
+3.Silver
+4.Blue
+5.Brown
+You: petrol
+Bot: It is available in both petrol and deisel. 
+You: is it available in petrol
+Bot: It is available in both petrol and deisel. 
+You: hello
+Bot: Hello!
+You: fuel
+Bot: It has a fuel tank capacity of 45 litres.
+You: models
+Bot: Models available are:
+	1.Venue E
+	2.Venue S
+	3.Venue SX 
+You: 1
+Bot: Did you mean something else? 

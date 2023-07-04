@@ -1,0 +1,16 @@
+You: price
+Bot: Rs.1,24,000 - Rs.1,31,000
+You: color
+Bot: The available colours are :  
+	1.White
+	2.Black
+	3.Blue
+	4.Red
+
+You: colour
+Bot: The available colours are :  
+	1.White
+	2.Black
+	3.Blue
+	4.Red
+
